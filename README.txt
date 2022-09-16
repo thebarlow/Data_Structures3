@@ -1,0 +1,1 @@
+Matthew BarlowREADMEProblem2.javaMay be run in the command line with the file parameter placed directly after it.> Java run problem2.java frank.txtAll other files were made in Microsoft word or Eclipse and can be run in whatever way is typical of your OS.
